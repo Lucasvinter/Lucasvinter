@@ -1,4 +1,4 @@
-#🚀 Desenvolvedor Apaixonado por Tecnologia | Transformando Códigos em Inovação
+🚀 Desenvolvedor Apaixonado por Tecnologia | Transformando Códigos em Inovação
 
 👋 Saudações! Sou Lucas Vinter, um entusiasta da tecnologia e programação dedicado a impulsionar a inovação por meio de linhas de código. Com uma paixão incessante por desafios técnicos, estou sempre em busca de soluções criativas para problemas complexos.
 
