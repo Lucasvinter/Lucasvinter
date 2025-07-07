@@ -3,7 +3,7 @@
 👋 Saudações! Sou Lucas Vinter, um entusiasta da tecnologia e programação dedicado a impulsionar a inovação por meio de linhas de código. Com uma paixão incessante por desafios técnicos, estou sempre em busca de soluções criativas para problemas complexos.
 
 ## 📫 Como me encontrar
-- [LinkedIn](https://linkedin.com/in/LucasVinter)
+- [LinkedIn](https://www.linkedin.com/in/lucas-vinter-3b7a67185/)
 
 ## 🛠️ Tecnologias e Ferramentas
 
